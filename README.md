@@ -14,7 +14,7 @@ Setup I used:
 source:
 
 https://www.youtube.com/watch?v=gT9EfT69a2o&t=186s
-(full instructions)
+   (full instructions)
 
 https://esphome.io/components/esp32_camera.html
-(yaml config)
+   (yaml config)

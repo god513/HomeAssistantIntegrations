@@ -12,5 +12,6 @@ Setup I used:
 - install (I installed it via the espHome Web interface)
 
 source:
-https://www.youtube.com/watch?v=gT9EfT69a2o&t=186s; 
+https://www.youtube.com/watch?v=gT9EfT69a2o&t=186s
+
 https://esphome.io/components/esp32_camera.html

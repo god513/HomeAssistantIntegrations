@@ -13,8 +13,8 @@ Setup I used:
 
 source:
 
-full instructions
 https://www.youtube.com/watch?v=gT9EfT69a2o&t=186s
+(full instructions)
 
-yaml config
 https://esphome.io/components/esp32_camera.html
+(yaml config)

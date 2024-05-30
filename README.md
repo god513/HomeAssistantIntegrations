@@ -9,7 +9,8 @@ Setup I used:
 - use default esp32 model when creating espCam in Home Assistant
 - copy yaml. code
 - change password/ name
-- install (I installed it via the espHome Web interface)
+- installation: manual download, open espHome web and connect + install
+- add entities to dashboard
 
 source:
 

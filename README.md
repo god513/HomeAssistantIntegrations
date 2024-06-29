@@ -1,5 +1,14 @@
 # Home Assistant
-uploading a few of my Home Assistant Integrations here
+uploading a few of my Home Assistant Integrations as well as projects here
+
+Contents:
+- Pasberry Pi Setup
+- ESP32 Cam
+- Relay
+
+# Raspberry Pi 3B+ Setup
+
+...
 
 # ESP32 CAM setup
 just some basic yaml code to get an esp32 cam running on Home Assistant (via EspHome),
@@ -19,3 +28,7 @@ https://www.youtube.com/watch?v=gT9EfT69a2o&t=186s
 
 https://esphome.io/components/esp32_camera.html
 (yaml config)
+
+# Simple Relay setup
+
+...

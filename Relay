@@ -1,0 +1,13 @@
+Simple relay with Esp8266 D1 mini
+pins 0; 2
+
+switch:
+  - platform: gpio
+    pin: 0
+    inverted: true
+    name: "relay1"
+
+  - platform: gpio
+    pin: 2
+    inverted: true
+    name: "relay2"

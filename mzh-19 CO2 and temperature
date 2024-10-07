@@ -1,0 +1,14 @@
+mzh-19 CO2 and temperature
+!connect rx to tx and tx to rx
+
+sensor:
+  - platform: mhz19
+    co2:
+      name: MH-Z19 CO2
+    temperature:
+      name: MH-Z19 Temperature
+
+uart:
+  tx_pin: 1
+  rx_pin: 3
+  baud_rate: 9600

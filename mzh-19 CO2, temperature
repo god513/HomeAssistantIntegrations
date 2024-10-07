@@ -1,4 +1,4 @@
-mzh-19 CO2 and temperature
+mzh-19 CO2, temperature
 !connect rx to tx and tx to rx
 
 sensor:

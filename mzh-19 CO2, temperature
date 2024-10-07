@@ -7,6 +7,9 @@ sensor:
       name: MH-Z19 CO2
     temperature:
       name: MH-Z19 Temperature
+    update_interval: 120s
+    automatic_baseline_calibration: False
+    warmup_time: 80s
 
 uart:
   tx_pin: 1

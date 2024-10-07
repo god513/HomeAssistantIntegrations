@@ -4,7 +4,9 @@ uploading a few of my Home Assistant Integrations as well as projects here
 Contents:
 - Pasberry Pi Setup
 - ESP32 Cam
-- Relay
+- Relays
+- aht20 temperature, humidity
+- mh-19B Co2, temperature
 
 # Raspberry Pi 3B+ Setup
 
